@@ -43,13 +43,7 @@ fun cantChange(a: Int): Int {
     return a
 }
 
-/*
-* 자바의 void = Unit
-* Unit을 사용하면 일급 객체로 사용 가능
-* */
-fun voidfunction(): Unit {
-    println("voidfunction")
-}
+
 
 /*
 * 식이 본문인 함수는 {} -> = 로 치환 가능
