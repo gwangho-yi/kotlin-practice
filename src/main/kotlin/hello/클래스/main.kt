@@ -1,5 +1,8 @@
 package hello.`object`
 
+import hello.클래스.접근제어자.Person
+import hello.클래스.생성자.Person2
+
 fun main() {
     val person = Person()
     person.firstName = "jinseong"
