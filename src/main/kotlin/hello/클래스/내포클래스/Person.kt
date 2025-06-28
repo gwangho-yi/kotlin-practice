@@ -2,7 +2,7 @@ package hello.클래스.내포클래스
 
 /**
  * ### 내포된 클래스
- * - inner
+ * - inner : 자바 내부 static class와 동일
  *
  * */
 class Person(
