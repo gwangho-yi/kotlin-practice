@@ -15,7 +15,7 @@ class Person(
             // println(age) 실행 불가
         }
     }
-    
+
     fun showMe() = println("Person(id=${id.firstName} ${id.lastName}, age=$age)")
 
     val fullName : String = "${id.firstName} ${id.lastName}"
