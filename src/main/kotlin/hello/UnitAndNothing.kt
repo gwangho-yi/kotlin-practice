@@ -29,5 +29,5 @@ fun getUserName(name: String?): String { // Nothing 은 모든 타입의 서브�
 
 fun main() {
     getUserName(null)
-    getUserName("jinseonghwang")
+    getUserName("gwangho")
 }
